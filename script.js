@@ -34,9 +34,9 @@ console.log(countVowel("ikram akbar"));
 //Write a function that will  find out a random number form 1 to 10;
 
 const randomNum = (min, max) => {
-  return;
+    return Math.floor(Math.random() * (max - min + 1)) + min;
 };
-
+console.log(randomNum(2,20))
 //
 
 function randomNumber(min, max) {
