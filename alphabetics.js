@@ -1,4 +1,4 @@
-//  Write a JavaScript function that returns a passed string with letters in alphabetical order.
+//  12. Write a JavaScript function that returns a passed string with letters in alphabetical order.
 
 /* 
 steps:
